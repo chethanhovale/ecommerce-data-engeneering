@@ -96,5 +96,5 @@ Orders by payment method
 Daily revenue trends
 ## Author
 Chethan Hovale  
-Email: your.email@example.com  
+Email: chethanhovale063@gmail.com  
 GitHub: [github.com/chethanhovale](https://github.com/chethanhovale)

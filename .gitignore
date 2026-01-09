@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+.venv/
+
+# Data files (optional – if data is large or sensitive)
+data/
